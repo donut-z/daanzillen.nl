@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://daanzillen.nl/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/omelette/</loc>
+    <loc>https://daanzillen.nl/recipes/omelette/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/</loc>
+    <loc>https://daanzillen.nl/recipes/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/lorem-ipsum/</loc>
+    <loc>https://daanzillen.nl/recipes/lorem-ipsum/</loc>
     <lastmod>2023-02-06T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lorem/</loc>
+    <loc>https://daanzillen.nl/tags/lorem/</loc>
     <lastmod>2023-02-06T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://daanzillen.nl/tags/</loc>
     <lastmod>2023-02-06T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arginine/</loc>
+    <loc>https://daanzillen.nl/tags/arginine/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://daanzillen.nl/publications/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pullulan/</loc>
+    <loc>https://daanzillen.nl/tags/pullulan/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/random-paper2/</loc>
+    <loc>https://daanzillen.nl/publications/random-paper2/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/random-paper1/</loc>
+    <loc>https://daanzillen.nl/publications/random-paper1/</loc>
     <lastmod>2023-01-27T00:15:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://daanzillen.nl/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://daanzillen.nl/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/archives/</loc>
+    <loc>https://daanzillen.nl/publications/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/recipes/archives/</loc>
+    <loc>https://daanzillen.nl/recipes/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://daanzillen.nl/search/</loc>
   </url>
 </urlset>
