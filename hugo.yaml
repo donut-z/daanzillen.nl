@@ -1,4 +1,4 @@
-baseURL: "https://daanzillen.nl/"
+baseURL: "https://www.daanzillen.nl/"
 title: Daan Zillen
 paginate: 5
 theme: PaperModX
@@ -19,9 +19,9 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: daanzillen.nl
-    description: "ExampleSite description"
-    keywords: [Blog, Portfolio, PaperModX]
-    author: Me
+    description: "Portfolio of Daan Zillen"
+    keywords: [Portfolio, Daan Zillen, University, Publications]
+    author: Daan Zillen
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
@@ -43,9 +43,9 @@ params:
 
     assets:
         # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
+        favicon: "/favicon.ico>"
+        favicon16x16: "/facicon-16x16.png"
+        favicon32x32: "/favicon-32x32.png"
         apple_touch_icon: "<link / abs url>"
         safari_pinned_tab: "<link / abs url>"
 
