@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daan Zillen</title>
-    <link>https://www.daanzillen.nl/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Daan Zillen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.daanzillen.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random paper 2</title>
-      <link>https://www.daanzillen.nl/publications/random-paper2/</link>
+      <link>http://localhost:1313/publications/random-paper2/</link>
       <pubDate>Thu, 02 Feb 2023 00:15:38 +0800</pubDate>
       
-      <guid>https://www.daanzillen.nl/publications/random-paper2/</guid>
+      <guid>http://localhost:1313/publications/random-paper2/</guid>
       <description>Asdflkelk</description>
       <content:encoded><![CDATA[<p>Asdflkelk</p>
 ]]></content:encoded>
@@ -20,12 +20,31 @@
     
     <item>
       <title>Random paper</title>
-      <link>https://www.daanzillen.nl/publications/random-paper1/</link>
+      <link>http://localhost:1313/publications/random-paper1/</link>
       <pubDate>Fri, 27 Jan 2023 00:15:38 +0800</pubDate>
       
-      <guid>https://www.daanzillen.nl/publications/random-paper1/</guid>
+      <guid>http://localhost:1313/publications/random-paper1/</guid>
       <description>Bliablabloee</description>
       <content:encoded><![CDATA[<p>Bliablabloee</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Impact of malnourishment on the pharmacokinetics of acetaminophen and susceptibility to acetaminophen hepatotoxicity</title>
+      <link>http://localhost:1313/publications/casereport/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/casereport/</guid>
+      <description>Daan Zillen, Kris L. L. Movig, Gert Kant, Joost B. Masselink, Paola Mian
+Find this paper in the journal Clinical Case Reports
+https://doi.org/10.1002/ccr3.4611
+Abstract:
+Background: Acetaminophen hepatotoxicity is thought to be primarily caused by formation of the specific reactive metabolite N-acetyl-para-benzo-quinone imine (NAPQI). Malnourished individuals are at increased risk of acetaminophen-related hepatotoxicity. We report a case of low acetaminophen clearance in a severely underweight young woman, and elaborate on the possible effects of malnutrition on the total clearance of acetaminophen as well as on the separate contributions of the different metabolic pathways.</description>
+      <content:encoded><![CDATA[<p>Daan Zillen, Kris L. L. Movig, Gert Kant, Joost B. Masselink, Paola Mian</p>
+<p>Find this paper in the journal Clinical Case Reports<br>
+<a href="https://doi.org/10.1002/ccr3.4611">https://doi.org/10.1002/ccr3.4611</a></p>
+<p>Abstract:<br>
+<strong>Background:</strong> Acetaminophen hepatotoxicity is thought to be primarily caused by formation of the specific reactive metabolite N-acetyl-para-benzo-quinone imine (NAPQI). Malnourished individuals are at increased risk of acetaminophen-related hepatotoxicity. We report a case of low acetaminophen clearance in a severely underweight young woman, and elaborate on the possible effects of malnutrition on the total clearance of acetaminophen as well as on the separate contributions of the different metabolic pathways. <strong>Case report:</strong> An 18-year-old Caucasian woman weighing 43 kg with a history of eating disorder-related hospital admissions presented at the emergency department after having ingested 33 tablets of acetaminophen 500 mg two hours earlier. She then received intravenous N-acetylcysteine for 33 h. Nine hours after ingestion, the acetaminophen elimination half-life (t½) was estimated to be &gt;100 h. <strong>Discussion:</strong> While decreased total acetaminophen clearance (twofold) due to malnutrition has been reported in literature, the extremely low clearance in this specific patient cannot be explained. Malnourished individuals generally have reduced antioxidant reserves, coinciding with a shift in metabolic routes toward oxidative metabolism. This may result in increased formation of NAPQI and reduced neutralizing capacity, thereby increasing the risk of acetaminophen-induced hepatotoxicity. Evidence for this observation can be found in animal and to a lesser extent in human studies.</p>
 ]]></content:encoded>
     </item>
     

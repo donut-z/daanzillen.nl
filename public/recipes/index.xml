@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recipes on Daan Zillen</title>
-    <link>https://www.daanzillen.nl/recipes/</link>
+    <link>http://localhost:1313/recipes/</link>
     <description>Recent content in Recipes on Daan Zillen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.daanzillen.nl/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Omelette du fromage</title>
-      <link>https://www.daanzillen.nl/recipes/omelette/</link>
+      <link>http://localhost:1313/recipes/omelette/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://www.daanzillen.nl/recipes/omelette/</guid>
-      <description>Crack a few eggs in a bowl, stir like your life depends on it. Add to a pan. Add bucket of cheese. Enjoy.</description>
-      <content:encoded><![CDATA[<p>Crack a few eggs in a bowl, stir like your life depends on it. Add to a pan. Add bucket of cheese. Enjoy.</p>
+      <guid>http://localhost:1313/recipes/omelette/</guid>
+      <description>Crack a few eggs in a bowl, stir like your life depends on it. Add to a pan and keep stirring untill most of runny egg is gone, then let it settle. Add some salt and pepper and a bucket of cheese. Enjoy.</description>
+      <content:encoded><![CDATA[<p>Crack a few eggs in a bowl, stir like your life depends on it. Add to a pan and keep stirring untill most of runny egg is gone, then let it settle. Add some salt and pepper and a bucket of cheese. Enjoy.</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>A Note of Lorem Ipsum</title>
-      <link>https://www.daanzillen.nl/recipes/lorem-ipsum/</link>
+      <link>http://localhost:1313/recipes/lorem-ipsum/</link>
       <pubDate>Mon, 06 Feb 2023 00:15:38 +0800</pubDate>
       
-      <guid>https://www.daanzillen.nl/recipes/lorem-ipsum/</guid>
+      <guid>http://localhost:1313/recipes/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Me non paenitet nullum festiviorem excogitasse ad hoc. Ambitioni dedisse scripsisse iudicaretur. Unam incolunt Belgae, aliam Aquitani, tertiam. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.
 Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Salutantibus vitae elit libero, a pharetra augue. Quam diu etiam furor iste tuus nos eludet?</description>
       <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Me non paenitet nullum festiviorem excogitasse ad hoc. Ambitioni dedisse scripsisse iudicaretur. Unam incolunt Belgae, aliam Aquitani, tertiam. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.</p>
