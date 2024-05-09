@@ -11,15 +11,6 @@
     <loc>http://localhost:1313/recipes/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/lorem-ipsum/</loc>
-    <lastmod>2023-02-06T00:15:38+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lorem/</loc>
-    <lastmod>2023-02-06T00:15:38+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-02-06T00:15:38+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/arginine/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
@@ -30,6 +21,9 @@
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/random-paper2/</loc>
+    <lastmod>2023-02-02T00:15:38+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-02-02T00:15:38+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/random-paper1/</loc>
